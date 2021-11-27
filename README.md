@@ -10,11 +10,12 @@ HTML correcation made:
 4. added a more describe title 
 5. added missing id tag
 6. added HTML tag commets
+7. added a favicon
 
 CSS correction made:
 1. added css comments
 2. condensed repetitive tags 
-3.
+
 
 
 Link deployed application is: 
