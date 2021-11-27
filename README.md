@@ -3,9 +3,24 @@
 <!--Describing the project -->
 Hariseon is a marketing agency that helps individuals grow their business by helping them with search engine optimization, online reputation management and social media marketing. We enhanced the website by accessibility standards,  semantic tags to the given HTML code and combining repetitive css styles. where added uisng alt tagging
 
-The link deployed application is: 
+HTML correcation made:
+1. accessibility standards where added 
+2. semantic tags to HTML code
+3. added alt tags to images 
+4. added a more describe title 
+5. added missing id tag
+6. added HTML tag commets
+
+CSS correction made:
+1. added css comments
+2. condensed repetitive tags 
+3.
+
+
+Link deployed application is: 
 https://github.com/moon9588/Horisean1.git
 
+Link to github respository:
 https://moon9588.github.io/Horisean1/
 
 website include images:
