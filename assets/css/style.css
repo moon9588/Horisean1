@@ -4,10 +4,6 @@
     margin: 0;
 }
 
-body {
-    background-color: #d9dcd6;
-}
-
 /*header style start*/
 
 .header {
@@ -41,6 +37,12 @@ body {
 .header nav ul li {
     display: inline-block;
     margin-left: 25px;
+}
+/*header style end */
+
+/* Body style starts */
+body {
+    background-color: #d9dcd6;
 }
 
 a {
@@ -87,17 +89,17 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-/*benefit lead style*/
-.benefit-lead, .benefit-brand,.benefit-cost {
+/*benfit lead style*/
+.benefit-lead, .benefit-brand, .benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
 }
-
-     margin-bottom: 10px;
+.benefit-lead h3, .benefit-brand h3, .benefit-cost h3 {
+    margin-bottom: 10px;
     text-align: center;
 }
 
-/*benefit lead img secation style*/
+
 .benefit-lead img, .benefit-brand img,.benefit-cost img {
     display: block;
     margin: 10px auto;
@@ -124,6 +126,7 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+/* Body style ends */
 
 /* footer starts here */
 .footer {
